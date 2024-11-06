@@ -40,6 +40,13 @@ Este projeto visa analisar os aspectos de um retificador monofásico ponte compl
    ```
 
 ## Resultados Obtidos
+
+### Gráfico de Tensão e Corrente
+![Gráfico de Tensão e Corrente](GraficoTensaoCorrente.png)
+
+### Gráfico de Harmônicas
+![Gráfico de Harmônicas](GraficoHarmonicas.png)
+
 - **Fator de Potência**: 0,7480
 - **THD da Tensão**: 7,08%
 - **THD da Corrente**: 75,58%
