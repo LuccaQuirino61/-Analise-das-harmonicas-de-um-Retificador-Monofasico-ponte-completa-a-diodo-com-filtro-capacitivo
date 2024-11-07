@@ -32,8 +32,17 @@ Este projeto visa analisar os aspectos de um retificador monofásico ponte compl
    ```
 2. Instale as bibliotecas necessárias:
    ```bash
-   pip install -r requirements.txt
+   pip install numpy
    ```
+
+    ```bash
+   pip install pandas
+   ```
+    
+    ```bash
+   pip install matplotlib
+   ```
+    
 3. Execute o script principal:
    ```bash
    python ArquivoPython.py
